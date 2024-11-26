@@ -15,7 +15,7 @@ Below is a preview of the Bike Sales Dashboard:
 - **Interactive Filters**: Includes slicers for filtering by gender, income, and commute distance.  
 
 ## 🗂️ Files Included  
-- `BikeSalesDashboard.xlsx` - The main dashboard file.  
+- `Bike Sales Dash.xlsx` - The main dashboard file.  
 - `Raw Data.xlsx` - Raw bike sales data used for analysis.  
 - `README.md` - Project documentation.  
  
