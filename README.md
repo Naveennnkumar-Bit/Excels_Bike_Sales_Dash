@@ -16,13 +16,9 @@ Below is a preview of the Bike Sales Dashboard:
 
 ## 🗂️ Files Included  
 - `BikeSalesDashboard.xlsx` - The main dashboard file.  
-- `BikeSalesData.xlsx` - Raw bike sales data used for analysis.  
+- `Raw Data.xlsx` - Raw bike sales data used for analysis.  
 - `README.md` - Project documentation.  
-
-## 🚀 How to Use  
-1. Open the `BikeSalesDashboard.xlsx` file in Excel.  
-2. Use the slicers and charts to explore data insights.  
-3. Analyze purchasing trends and identify key customer segments.  
+ 
 
 ## 📈 Insights Provided  
 - Factors influencing bike purchases, like age, income, and commute distance.  
@@ -31,11 +27,8 @@ Below is a preview of the Bike Sales Dashboard:
 
 ## 🛠️ Tools Used  
 - **Microsoft Excel**: For data visualization and dashboard creation.  
-- **Power Query**: To clean and preprocess data.  
+- **Charts**: for simplifying, comparing, and communicating data, making it easier to understand and act upon.
 - **Pivot Tables**: For dynamic data summaries.  
 
 ## 🤝 Contributing  
 Contributions are welcome! Submit a pull request or open an issue for enhancements or bug fixes.  
-
-## 📄 License  
-This project is licensed under the [MIT License](LICENSE).  
