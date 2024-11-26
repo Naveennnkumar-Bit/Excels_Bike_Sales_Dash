@@ -6,7 +6,7 @@ This project is an **Excel-based Bike Sales Dashboard** designed to analyze bike
 ## 🖼️ Dashboard Preview  
 Below is a preview of the Bike Sales Dashboard:  
 
-![Dashboard Preview](https://your-repository-link/BikeSalesDashboard.png)  
+![Dashboard Preview](https://your-repository-link/Bike_Sales.png)  
 
 ## ✨ Features  
 - **Customer Analysis**: Understand demographic factors influencing bike purchases.  
